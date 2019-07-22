@@ -1,9 +1,10 @@
-Types of Data you will be dealing with in data science.
+# Types of Data you will be dealing with in data science.
 > Numerical Data
 > Categorical Data
 > Ordinal Data
 
 ## Numerical Data:
+
 > Quantitative - Basically represents some quantifiable data that you can measure. eg. heights of people.
 > Discrete - Integer based data representation eg. no. of purchases a customer make in a year.
 > Continous - Has an infinite range/no. of possible values eg. howmuch time a user takes to checkout a product.
