@@ -18,7 +18,6 @@ The common value in a dataset and it is not relevant to continous data distribut
 
 Formula: the most occuring value in the dataset is the mode of the data
 
-
 # Standard deviation and variance :
 
 > Outlier is a numerical values that are far away from the other dataset values.
@@ -33,4 +32,9 @@ You can talk about standard deviation in sucha way that how extreme a data point
 
 In Sample Variance the only diffrence is when we finally divide the sum of squares of the diffrences by the **total no of datapoints - 1** this is the only diffrence betweeen S^2 and sigma^2.
 
-As the presence of the outliers effect the mean of the data set by a huge amount of magnitude hence it also effects the standard deviation    
+As the presence of the outliers effect the mean of the data set by a huge amount of magnitude hence it also effects the standard deviation     
+
+Normal distribution curve is also known as the proability density curve. It gives you the prbability of the data points falling within some given range of values.
+
+probability mass function is used for visualising the discrete values ocourring in the dataset
+ 
