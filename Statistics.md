@@ -42,4 +42,4 @@ probability mass function is used for visualizing the discrete values occurring 
 
 It is a flat constant probability of an event occurring. Every range of values has an equal chance of occurring as another range of value is.
 
-There are various kinds of probability distribution/mass functions listed in the ipython notebook Distribution.ipynb
+There are various kinds of probability distribution/mass functions listed in the ipython notebook [Distribution.ipynb](https://github.com/priyansh19/Probability_And_Statistics_For_Data_Science/blob/master/Distributions.ipynb)
