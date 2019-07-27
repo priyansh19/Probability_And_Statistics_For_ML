@@ -43,3 +43,15 @@ probability mass function is used for visualizing the discrete values occurring 
 It is a flat constant probability of an event occurring. Every range of values has an equal chance of occurring as another range of value is.
 
 There are various kinds of probability distribution/mass functions listed in the ipython notebook [Distribution.ipynb](https://github.com/priyansh19/Probability_And_Statistics_For_Data_Science/blob/master/Distributions.ipynb)
+
+# Covariance and Corelation: 
+
+It is a measure how two variables vary from thier tandem from thier names.
+
+Measuring Covariance is basically a dot product between two hihg dimensional vectors i.e measuring the cosine angle between the two vectors.
+
+Large covariance impleis that the covariance does have some relationship between the tow vectors.But how large is the "Large" ?
+
+Here is the Correlation comes into the scope.. To calculate it .. just Divide the covariance by the standard deviation.
+
+Correlation if = 0 No Correlation between vectors, if = -1 Perfect inverse correlation, if =1 then perfect correlation.
