@@ -55,3 +55,7 @@ Large covariance impleis that the covariance does have some relationship between
 Here is the Correlation comes into the scope.. To calculate it .. just Divide the covariance by the standard deviation.
 
 Correlation if = 0 No Correlation between vectors, if = -1 Perfect inverse correlation, if =1 then perfect correlation.
+
+Remember that correlation does not implies causation ! means that if there is a very high correlation then it is not compulsory that one thing causes another thing.
+
+You can take help from the [CorrelationandCovariance.ipynb file](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/CovarianceCorrelation.ipynb) to get familiar with code. 
