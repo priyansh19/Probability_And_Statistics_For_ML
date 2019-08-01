@@ -30,6 +30,9 @@ Standard deviation (sigma) is just the square root of the variance term. It is t
   
 You can talk about standard deviation in such a way that how extreme a data points is by talking about "how many standard deviations  " away from the mean it is
 
+
+# Normal Distribution :
+
 In Sample Variance, the only difference is when we finally divide the sum of squares of the differences by the **total no of datapoints - 1** this is the only difference between S^2 and sigma^2.
 
 As the presence of the outliers affect the mean of the data set by a huge amount of magnitude hence it also affects the standard deviation     
