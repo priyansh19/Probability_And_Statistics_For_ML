@@ -20,7 +20,7 @@ Formula: the most occurring value in the dataset is the mode of the data
 
 # Standard deviation and variance :
 
-> Outlier is numerical values that are far away from the other dataset values.
+Outlier is numerical values that are far away from the other dataset values.
 
 They are all about the shape of the distribution of data
 
@@ -62,3 +62,5 @@ Correlation if = 0 No Correlation between vectors, if = -1 Perfect inverse corre
 Remember that correlation does not implies causation ! means that if there is a very high correlation then it is not compulsory that one thing causes another thing.
 
 You can take help from the [CorrelationandCovariance.ipynb file](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/CovarianceCorrelation.ipynb) to get familiar with code. 
+
+# Bayes Theroem :
