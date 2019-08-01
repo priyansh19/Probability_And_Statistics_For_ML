@@ -17,3 +17,4 @@ This repository contains the basic explanation of types of data in data science 
 
 7. Moments
 
+8. Correlation and Covariance
