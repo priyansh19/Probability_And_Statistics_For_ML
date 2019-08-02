@@ -61,6 +61,9 @@ Correlation if = 0 No Correlation between vectors, if = -1 Perfect inverse corre
 
 Remember that correlation does not implies causation ! means that if there is a very high correlation then it is not compulsory that one thing causes another thing.
 
-You can take help from the [CorrelationandCovariance.ipynb file](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/CovarianceCorrelation.ipynb) to get familiar with code. 
+You can take help from the [CorrelationandCovariance.ipynb file](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/CovarianceCorrelation.ipynb) to get familiar with code.
+
+Rough python code for finding covariance and corelation 
+![ss1](https://user-images.githubusercontent.com/33621094/62338955-ff05c200-b4f7-11e9-8301-2bbaf25f9f05.png)
 
 # Bayes Theroem :
