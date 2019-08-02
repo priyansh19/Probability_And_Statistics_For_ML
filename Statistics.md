@@ -66,4 +66,6 @@ You can take help from the [CorrelationandCovariance.ipynb file](https://github.
 Rough python code for finding covariance and corelation 
 ![ss1](https://user-images.githubusercontent.com/33621094/62338955-ff05c200-b4f7-11e9-8301-2bbaf25f9f05.png)
 
+Here de_mean function is finding the value of each deviation from the mean to the point and the covariance function is baiscaly finding the dot product of the deviations from the mean points 
+
 # Bayes Theroem :
