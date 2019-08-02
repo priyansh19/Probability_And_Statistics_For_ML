@@ -72,4 +72,12 @@ Covariance is sensitive to the data points hence it doesnot tells us anything ab
 
 we can directly compute covariance and corelation between the variables using numpy functions i.e numpy.corrcoeff(x,y) and numpy.covcoeff(x,y) 
 
+# Conditional Probbability :
+
+You can imagine it as the odds of purchasing an item before buying aother item .. this is what happens in the recommendation systems of online selling sites.
+
+## Formula :
+![ss2](https://user-images.githubusercontent.com/33621094/62362768-56795180-b53b-11e9-9cbd-b0e1fe223e6b.png)
+
+
 # Bayes Theroem :
