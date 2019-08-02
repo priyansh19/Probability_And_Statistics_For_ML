@@ -68,6 +68,8 @@ Rough python code for finding covariance and corelation
 
 Here de_mean function is finding the value of each deviation from the mean to the point and the covariance function is baiscaly finding the dot product of the deviations from the mean points 
 
-Covariance is sensitive to the data points hence it doesnot tells us anything about the relationship between data points here comes the corelation which ranges from 1 to -1 and hence it tells the relationship
+Covariance is sensitive to the data points hence it doesnot tells us anything about the relationship between data points here comes the corelation which ranges from 1 to -1 and hence it tells the relationship.
+
+we can directly compute covariance and corelation between the variables using numpy functions i.e numpy.corrcoeff(x,y) and numpy.covcoeff(x,y) 
 
 # Bayes Theroem :
