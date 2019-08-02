@@ -51,9 +51,9 @@ There are various kinds of probability distribution/mass functions listed in the
 
 It is a measure how two variables vary from thier tandem from thier names.
 
-Measuring Covariance is basically a dot product between two hihg dimensional vectors i.e measuring the cosine angle between the two vectors.
+Measuring Covariance is basically a dot product between two high dimenssional vectors i.e measuring the cosine angle between the two vectors.
 
-Large covariance impleis that the covariance does have some relationship between the tow vectors.But how large is the "Large" ?
+Large covariance implies that the covariance does have some relationship between the tow vectors.But how large is the "Large" ?
 
 Here is the Correlation comes into the scope.. To calculate it .. just Divide the covariance by the standard deviation.
 
