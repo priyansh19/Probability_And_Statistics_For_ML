@@ -86,3 +86,6 @@ And the assignment given in this excersise do have a simple solution : [LINK](ht
 # Bayes Theroem :
 
 This Theorem is based on conditional probability. 
+
+![ss4](https://user-images.githubusercontent.com/33621094/62366341-3ac67900-b544-11e9-88ab-4e111104cddc.png)
+
