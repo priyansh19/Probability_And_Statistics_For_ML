@@ -83,5 +83,6 @@ We can compute the conditional probability in python also go to this [LINK](http
 
 And the assignment given in this excersise do have a simple solution : [LINK](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/ConditionalProbabilitySolution.ipynb)
 
-
 # Bayes Theroem :
+
+This Theorem is based on conditional probability. 
