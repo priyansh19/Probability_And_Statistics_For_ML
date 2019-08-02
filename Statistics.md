@@ -79,5 +79,9 @@ You can imagine it as the odds of purchasing an item before buying aother item .
 ## Formula :
 ![ss2](https://user-images.githubusercontent.com/33621094/62362768-56795180-b53b-11e9-9cbd-b0e1fe223e6b.png)
 
+We can compute the conditional probability in python also go to this [LINK](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/ConditionalProbabilityExercise.ipynb)
+
+And the assignment given in this excersise do have a simple solution : [LINK](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/ConditionalProbabilitySolution.ipynb)
+
 
 # Bayes Theroem :
