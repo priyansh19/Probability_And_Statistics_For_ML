@@ -89,3 +89,6 @@ This Theorem is based on conditional probability.
 
 ![ss4](https://user-images.githubusercontent.com/33621094/62366341-3ac67900-b544-11e9-88ab-4e111104cddc.png)
 
+Note : **P(B|A) != 1-P(A|B)** and if one probability is higher than this not compulsory that second one will also be a higher value.
+
+
