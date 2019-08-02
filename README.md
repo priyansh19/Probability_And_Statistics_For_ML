@@ -22,3 +22,5 @@ This repository contains the basic explanation of types of data in data science 
 9. Bayes Theorem 
 
 10. Conditional probability 
+
+To start with basics of this content [go to](https://github.com/priyansh19/Probability_And_Statistics_For_ML/blob/master/Statistics.md) 
